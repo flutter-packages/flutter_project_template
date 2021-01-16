@@ -1,0 +1,2 @@
+# flutter_project_template
+Flutter项目快速开发通用模板
